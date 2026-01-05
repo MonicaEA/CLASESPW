@@ -10,7 +10,7 @@ import java.util.Objects;
 // @Setter
 @Data
 @AllArgsConstructor
-public class Coche
+public class  Coche
 {
     private String marca, modelo, bastidor, color;
     private int cv, velocidad;
